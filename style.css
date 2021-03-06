@@ -39,6 +39,7 @@ body {
     left: 0;
     height: 100vh;
     transform: translateX(-100%);
+    transition: transform 300ms ease-in-out;
 }
 
 .nav.visible {
