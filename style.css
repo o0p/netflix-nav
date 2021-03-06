@@ -40,3 +40,7 @@ body {
     height: 100vh;
     transform: translateX(-100%);
 }
+
+.nav.visible {
+    transform: translateX();
+}
