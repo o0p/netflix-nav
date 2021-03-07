@@ -62,3 +62,10 @@ body {
     background-color: rgb(255, 255, 255);
     width: 95%;
 }
+
+.close-btn {
+    opacity: 0.3;
+    position: absolute;
+    top: 40px;
+    right: 30px;
+}
