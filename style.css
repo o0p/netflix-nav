@@ -55,7 +55,7 @@ body {
 }
 
 .nav-black.visible {
-    transition-delay: 0;
+    transition-delay: 0ms;
 }
 
 .nav-red {
@@ -73,6 +73,11 @@ body {
     width: 95%;
     padding: 40px;
     position: relative;
+    transition-delay: 0ms;
+}
+
+.nav-white.visible {
+    transition-delay: 400ms;
 }
 
 .close-btn {
